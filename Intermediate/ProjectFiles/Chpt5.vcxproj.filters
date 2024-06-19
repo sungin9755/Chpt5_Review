@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Chpt5.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{A8268ABA-F384-4007-9C0B-6DD84FDC6DD3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Chpt5.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Chpt5Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{3F2016DC-BE9A-4CA5-A2DC-F586FB88470E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Chpt5">
+      <UniqueIdentifier>{8F01ED29-31C4-4D43-A965-A99BE08ED7BA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Chpt5\Chapter_05GameModeBase.cpp">
+      <Filter>Source\Chpt5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chpt5\Chapter_05GameModeBase.h">
+      <Filter>Source\Chpt5</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Chpt5\Chpt5.Build.cs">
+      <Filter>Source\Chpt5</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Chpt5\Chpt5.cpp">
+      <Filter>Source\Chpt5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chpt5\Chpt5.h">
+      <Filter>Source\Chpt5</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Chpt5\DelegateListener.cpp">
+      <Filter>Source\Chpt5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chpt5\DelegateListener.h">
+      <Filter>Source\Chpt5</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Chpt5\MyTriggerVolume.cpp">
+      <Filter>Source\Chpt5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chpt5\MyTriggerVolume.h">
+      <Filter>Source\Chpt5</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Chpt5\TriggerVolEventListener.cpp">
+      <Filter>Source\Chpt5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chpt5\TriggerVolEventListener.h">
+      <Filter>Source\Chpt5</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

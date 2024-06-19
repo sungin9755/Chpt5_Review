@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Chpt5",
+			"Path": "C:\\Users\\Cho\\Documents\\Unreal Projects\\Chpt5\\Source\\Chpt5.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Chpt5Editor",
+			"Path": "C:\\Users\\Cho\\Documents\\Unreal Projects\\Chpt5\\Source\\Chpt5Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

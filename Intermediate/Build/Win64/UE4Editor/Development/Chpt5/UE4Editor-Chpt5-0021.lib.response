@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Chpt5-0021.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Cho\Documents\Unreal Projects\Chpt5\Intermediate\Build\Win64\Chpt5Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Cho\Documents\Unreal Projects\Chpt5\Intermediate\Build\Win64\UE4Editor\Development\Chpt5\Chapter_05GameModeBase.cpp.obj"
+"C:\Users\Cho\Documents\Unreal Projects\Chpt5\Intermediate\Build\Win64\UE4Editor\Development\Chpt5\Chpt5.cpp.obj"
+"C:\Users\Cho\Documents\Unreal Projects\Chpt5\Intermediate\Build\Win64\UE4Editor\Development\Chpt5\DelegateListener.cpp.obj"
+"C:\Users\Cho\Documents\Unreal Projects\Chpt5\Intermediate\Build\Win64\UE4Editor\Development\Chpt5\MyTriggerVolume.cpp.obj"
+"C:\Users\Cho\Documents\Unreal Projects\Chpt5\Intermediate\Build\Win64\UE4Editor\Development\Chpt5\TriggerVolEventListener.cpp.obj"
+"C:\Users\Cho\Documents\Unreal Projects\Chpt5\Intermediate\Build\Win64\UE4Editor\Development\Chpt5\Chapter_05GameModeBase.gen.cpp.obj"
+"C:\Users\Cho\Documents\Unreal Projects\Chpt5\Intermediate\Build\Win64\UE4Editor\Development\Chpt5\Chpt5.init.gen.cpp.obj"
+"C:\Users\Cho\Documents\Unreal Projects\Chpt5\Intermediate\Build\Win64\UE4Editor\Development\Chpt5\DelegateListener.gen.cpp.obj"
+"C:\Users\Cho\Documents\Unreal Projects\Chpt5\Intermediate\Build\Win64\UE4Editor\Development\Chpt5\MyTriggerVolume.gen.cpp.obj"
+"C:\Users\Cho\Documents\Unreal Projects\Chpt5\Intermediate\Build\Win64\UE4Editor\Development\Chpt5\TriggerVolEventListener.gen.cpp.obj"
+"C:\Users\Cho\Documents\Unreal Projects\Chpt5\Intermediate\Build\Win64\UE4Editor\Development\Chpt5\Default.rc2.res"
+/OUT:"C:\Users\Cho\Documents\Unreal Projects\Chpt5\Intermediate\Build\Win64\UE4Editor\Development\Chpt5\UE4Editor-Chpt5-0021.lib"
