@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Chpt5.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{A8268ABA-F384-4007-9C0B-6DD84FDC6DD3}</UniqueIdentifier>
+      <UniqueIdentifier>{5F6E97D0-EAD5-4827-B7FE-BEE4A0C16E59}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Chpt5.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,10 @@
     <None Include="..\..\Source\Chpt5Editor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{3F2016DC-BE9A-4CA5-A2DC-F586FB88470E}</UniqueIdentifier>
+      <UniqueIdentifier>{73154678-9218-43DF-98DD-16DA405A3C52}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +26,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Chpt5">
-      <UniqueIdentifier>{8F01ED29-31C4-4D43-A965-A99BE08ED7BA}</UniqueIdentifier>
+      <UniqueIdentifier>{74F531AA-09D7-49A2-87FB-7FAC2FC929EF}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\Chpt5\Chapter_05GameModeBase.cpp">
       <Filter>Source\Chpt5</Filter>
@@ -41,6 +43,12 @@
     <ClInclude Include="..\..\Source\Chpt5\Chpt5.h">
       <Filter>Source\Chpt5</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\Chpt5\Clock.cpp">
+      <Filter>Source\Chpt5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chpt5\Clock.h">
+      <Filter>Source\Chpt5</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\Chpt5\DelegateListener.cpp">
       <Filter>Source\Chpt5</Filter>
     </ClCompile>
@@ -51,6 +59,24 @@
       <Filter>Source\Chpt5</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Chpt5\MyTriggerVolume.h">
+      <Filter>Source\Chpt5</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Chpt5\PickUp.cpp">
+      <Filter>Source\Chpt5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chpt5\PickUp.h">
+      <Filter>Source\Chpt5</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Chpt5\PickupSpawner.cpp">
+      <Filter>Source\Chpt5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chpt5\PickupSpawner.h">
+      <Filter>Source\Chpt5</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Chpt5\TimeOfDayHandler.cpp">
+      <Filter>Source\Chpt5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Chpt5\TimeOfDayHandler.h">
       <Filter>Source\Chpt5</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\Chpt5\TriggerVolEventListener.cpp">

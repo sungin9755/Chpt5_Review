@@ -1,0 +1,7 @@
+C:\Users\Cho\Documents\Unreal Projects\Chpt5\Intermediate\Build\Win64\UE4Editor\Development\Chpt5\Definitions.Chpt5.h
+C:\Users\Cho\Documents\Unreal Projects\Chpt5\Source\Chpt5\PickUp.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RotatingMovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RotatingMovementComponent.generated.h
+C:\Users\Cho\Documents\Unreal Projects\Chpt5\Intermediate\Build\Win64\UE4Editor\Inc\Chpt5\PickUp.generated.h
